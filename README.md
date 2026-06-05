@@ -41,8 +41,9 @@ Build (optional for executable)
 ```bash
   todo --help
 ```
+Output :
 
-```bash
+```
 Todo application to manage your tasks in command line interface
 
 Usage:
